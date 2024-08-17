@@ -44,6 +44,7 @@ types and tasks.
 1. To preprocess text data, run the process.sh file.
 2. Run Shell scripts in the examples file for paper training and testing.
 
+- Paper [pdf](http://dx.doi.org/10.1109/TAI.2024.3354668) download connection.
 
 # Citation
 
